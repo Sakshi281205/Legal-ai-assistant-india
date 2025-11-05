@@ -34,19 +34,6 @@ Legal documentation can be a complicated and time-consuming process, especially 
 
 **Data**: We have made use of [LawRato](https://lawrato.com/legal-documents) for the dataset of legal documents.
 
-## Demo
-
-🎥 Video Walkthrough
-
-Check out a live demonstration of the project in action: https://github.com/PritK99/Legal-Documentation-Assistant/assets/103848930/023f19a9-dea2-458b-ae53-6f6c7f36d74f
-
-🌐 Live Website
-
-Explore the deployed website here: <a href="https://legal-documentation-assistant-frontend.onrender.com">https://legal-documentation-assistant-frontend.onrender.com
-</a>
-
-> **Note** <br>
-> The server may take a few minutes to launch, as we are using a free service provided by Render. Please note that this service is only available for 30 days, so access might be unavailable if the free period has expired.
 
 ## Tech Stack
 
