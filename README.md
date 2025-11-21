@@ -86,10 +86,6 @@ Legal documentation can be a complicated and time-consuming process, especially 
 
 ### Installation
 
-Clone the project by typing the following command in your Terminal/CommandPrompt
-
-```
-git clone https://github.com/PritK99/Legal-Documentation-Assistant.git
 ```
 Navigate to the Legal Documentation Assistant folder
 
